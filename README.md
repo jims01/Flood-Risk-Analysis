@@ -35,7 +35,3 @@ all three measures.
 
 ## Tools
 Python (geopandas, pandas, matplotlib), QGIS, Environment Agency & ONS open data
-
-## Files
-- flood_risk_analysis.ipynb — full analysis notebook
-- newcastle_flood_risk.geojson — final dataset with computed metrics
